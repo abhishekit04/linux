@@ -1,0 +1,3 @@
+in structure programming a problem is approached by dividing it into function
+
+
